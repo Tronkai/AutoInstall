@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AutoInstall</string>
+    <string name="service_desc">自动化辅助工具，用于处理执行用例过程中出现的一场弹出框和页面</string>
 </resources>
